@@ -4,3 +4,7 @@
 .row{
     padding: 20px;
 }
+.portfolio-img{
+    margin: 5px;
+    float: left;
+}
