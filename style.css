@@ -1,10 +1,15 @@
 .container-sm{
     margin-top: 50px;
 }
-.row{
+.indexRow{
     padding: 20px;
 }
 .portfolio-img{
     margin: 5px;
     float: left;
+    height: 350px;
+    width: 350px;
+}
+body{
+    background-color: wheat;
 }
