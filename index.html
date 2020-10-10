@@ -14,22 +14,30 @@
 </head>
 
 <body>
-    <!--Navbar-->
+    <!-- Navbar functions identically across all pages-->
+    <!-- Navbar will collapse into dropdown menu on md and smaller windows -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <!-- Clicking here redirects to the About Me page -->
         <a class="navbar-brand" href=index.html>Alexander Camacho</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <!-- Clickable link on righthand side to open dropdown menu -->
+    <!-- Currently active page is in bold -->
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
+                    <!-- Redirects to Contact page -->
                     <a href=contact.html class="nav-link">Contact</a>
                 </li>
                 <li class="nav-item">
+                    <!-- Redirects to Portfolio page -->
                     <a href=portfolio.html class="nav-link">Portfolio</a>
                 </li>
                 <li class="nav-item active">
+                    <!-- Redirects to About Me page -->
                     <a href=index.html class="nav-link">About</a>
                 </li>
             </ul>
@@ -45,7 +53,7 @@
         <div class="row indexRow">
 
             <!-- Some information about myself and a picture-->
-            <p><img src="images/self.jpg" alt="" class="img-thumbnail float-left">Lorem, ipsum dolor sit amet
+            <p><img src="images/self.jpg" alt="picture of Alexander Camacho" class="img-thumbnail float-left">Lorem, ipsum dolor sit amet
                 consectetur adipisicing elit. Consectetur inventore amet dolorem placeat dignissimos molestias aliquid,
                 quaerat esse, quisquam aliquam quia error ipsum eius sunt perspiciatis minus quibusdam dolorum fugit?
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, vero veniam tempore a quidem sunt
