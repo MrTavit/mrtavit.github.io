@@ -1,6 +1,6 @@
 # Welcome to my home page!
 
-## This is the beginning of me learning to become a web developer.
+## This is the beginning of me learning full stack web development.
 
 This website was made using the Bootstrap CSS framework.
 
@@ -15,7 +15,7 @@ The menu options are:
 
 The current page will be highlighted in bold.
 
-Clicking on 'Contact' will open my contact page where you can leave me a message. There are 3 forms, 'Name', 'Email', and 'Leave a message'. Clicking submit will refresh the page. *Currently, leaving a message will not actually save the message.*
+Clicking on 'Contact' will open my contact page where you can leave me a message. There are 3 forms, 'Name', 'Email', and 'Leave a message'. Clicking submit will refresh the page. *Currently, leaving a message will not actually save the message.* Links to my LinkedIn and Twitter profile pages are also on this page.
 
 ![Contact page](./images/contact-page.jpg)
 
