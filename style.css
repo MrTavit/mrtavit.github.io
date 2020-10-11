@@ -1,15 +1,20 @@
+body{
+    /* Background color for all pages */
+    background-color: wheat;
+}
 .container-sm{
+    /* Moves content on all pages down from the navbar */
     margin-top: 50px;
 }
 .indexRow{
+    /* Padding on sides of text for home page to prevent text */
+    /* flowing off the window on smaller windows */
     padding: 20px;
 }
 .portfolio-img{
+    /* Small margin between portfolio imgs, also width and height to */
+    /* maintain size when new images are added */
     margin: 5px;
-    float: left;
     height: 350px;
     width: 350px;
-}
-body{
-    background-color: wheat;
 }
