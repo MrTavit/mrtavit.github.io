@@ -1,11 +1,15 @@
 /* All pages */
 body{
     /* Background color for all pages */
-    background-color: wheat;
+    background-color: #cccccc;
 }
 .container-sm{
     /* Moves content on all pages down from the navbar */
-    margin-top: 50px;
+    margin-top: 50px;    
+}
+
+nav{
+    background-color: rebeccapurple;
 }
 
 /* Index */
@@ -13,6 +17,10 @@ body{
     /* Padding on sides of text for home page to prevent text */
     /* flowing off the window on smaller windows */
     padding: 20px;
+}
+
+.self-pic{
+    margin: 10px;
 }
 
 /* Portfolio */
