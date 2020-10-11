@@ -31,3 +31,9 @@ nav{
     height: 350px;
     width: 350px;
 }
+
+/* Contact */
+.LI-profile-badge{
+    background-color: white;
+    margin: 10px;
+}
