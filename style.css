@@ -1,3 +1,4 @@
+/* All pages */
 body{
     /* Background color for all pages */
     background-color: wheat;
@@ -6,11 +7,15 @@ body{
     /* Moves content on all pages down from the navbar */
     margin-top: 50px;
 }
+
+/* Index */
 .indexRow{
     /* Padding on sides of text for home page to prevent text */
     /* flowing off the window on smaller windows */
     padding: 20px;
 }
+
+/* Portfolio */
 .portfolio-img{
     /* Small margin between portfolio imgs, also width and height to */
     /* maintain size when new images are added */
