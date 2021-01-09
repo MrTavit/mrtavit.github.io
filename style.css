@@ -28,8 +28,8 @@ nav{
     /* Small margin between portfolio imgs, also width and height to */
     /* maintain size when new images are added */
     margin: 5px;
-    height: 350px;
-    width: 350px;
+    height: 80%;
+    width: 80%;
 }
 
 /* Contact */
